@@ -1,0 +1,5 @@
+evdev==1.4.0
+pynput==1.7.3
+pyserial==3.5
+python-xlib==0.29
+six==1.15.0
