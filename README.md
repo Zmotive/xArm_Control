@@ -3,9 +3,11 @@ Used to Control Lobot xArm
 
 ## Wiring
 if you are using an FTDI programer. the pin out to the Robot is:
-1 FTDI Black(GND) -> 1 GND
-4 FTDI Yellow(Rx) -> 2 Tx
-5 FTDI Orange(Tx) -> 3 Rx
+```
+1 FTDI Black(GND) -> 1 GND ROBOT
+4 FTDI Yellow(Rx) -> 2 Tx ROBOT
+5 FTDI Orange(Tx) -> 3 Rx ROBOT
+```
 
 here is a diagram of it: https://images.app.goo.gl/7BeaCJrG1jQAY42o8
 
